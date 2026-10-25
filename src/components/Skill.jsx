@@ -1,5 +1,5 @@
 import React from 'react';
-import { Layout, Server, Database, Wrench, Terminal } from 'lucide-react';
+import { Layout, Server, Database, Wrench } from 'lucide-react';
 
 const Skill = ({ language = 'kh' }) => {
   // ទិន្នន័យជំនាញ បែងចែកតាមប្រភេទ
@@ -84,3 +84,4 @@ const Skill = ({ language = 'kh' }) => {
 };
 
 export default Skill;
+

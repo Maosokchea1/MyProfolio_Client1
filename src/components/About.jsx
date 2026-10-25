@@ -1,5 +1,5 @@
 import React from 'react';
-import { CheckCircle2, Code2, Layout, Server } from 'lucide-react';
+import { Code2, Layout, Server } from 'lucide-react';
 
 const About = ({ language = 'kh' }) => {
   // ទិន្នន័យស្ថិតិ (Stats)
